@@ -6,6 +6,7 @@
 <body>
     <div id="wrapper">Wrapper
     		<div id="main">Main</div>
+    		<div id="footer">Footer</div>
 
     </div>
 
